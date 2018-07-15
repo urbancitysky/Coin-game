@@ -1,5 +1,4 @@
 #-----------------------------------------------
-# CECS 424 Assignment 1 
 # Author : Shih Kai Chen
 # Date: Sep 4th 2013
 # Description: This is a coin game which allows
